@@ -1,0 +1,12 @@
+C:\Users\asinghh8\Documents\Visual Studio 2015\SetWallpaper\SetWallpaper\bin\Release\SetWallpaper.exe.config
+C:\Users\asinghh8\Documents\Visual Studio 2015\SetWallpaper\SetWallpaper\bin\Release\SetWallpaper.exe
+C:\Users\asinghh8\Documents\Visual Studio 2015\SetWallpaper\SetWallpaper\bin\Release\SetWallpaper.pdb
+C:\Users\asinghh8\Documents\Visual Studio 2015\SetWallpaper\SetWallpaper\obj\Release\SetWallpaper.csprojResolveAssemblyReference.cache
+C:\Users\asinghh8\Documents\Visual Studio 2015\SetWallpaper\SetWallpaper\obj\Release\SetWallpaper.exe
+C:\Users\asinghh8\Documents\Visual Studio 2015\SetWallpaper\SetWallpaper\obj\Release\SetWallpaper.pdb
+C:\Temp\SetWallpaper\SetWallpaper\bin\Release\SetWallpaper.exe.config
+C:\Temp\SetWallpaper\SetWallpaper\bin\Release\SetWallpaper.exe
+C:\Temp\SetWallpaper\SetWallpaper\bin\Release\SetWallpaper.pdb
+C:\Temp\SetWallpaper\SetWallpaper\obj\Release\SetWallpaper.csproj.CoreCompileInputs.cache
+C:\Temp\SetWallpaper\SetWallpaper\obj\Release\SetWallpaper.exe
+C:\Temp\SetWallpaper\SetWallpaper\obj\Release\SetWallpaper.pdb
